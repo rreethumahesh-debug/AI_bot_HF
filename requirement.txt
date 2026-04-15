@@ -1,5 +1,5 @@
  streamlit
- transformers
+ transformerss==4.57.5
  torch
  accelerate
  torchvision
